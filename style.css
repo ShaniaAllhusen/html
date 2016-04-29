@@ -1,6 +1,37 @@
 body {
-margin-left: 20px;
-margin-right: 20px;
+margin-left: 100px;
+margin-right: 100px;
 background-color: #D6C2D6 ;
-font-size:20;
+font-size:24;
+font-family: Arial;
+background-position: center;
+background-image:url(http://1.bp.blogspot.com/-FU7Dd2aJKF0/U0aGMV9d60I/AAAAAAAAY3Q/z_4I4-R64SY/s1600/fruhling-hintergrundbilder-rosa-blumen-schmetterlinge-foto-blauen-himmel-hd-wallpaper-fruhjahr.jpg);#
+background-repeat: right;
 }
+
+h2{
+	color: #1C102C;
+	text-align: center;
+	font-size: 50;
+	font-family: Arial;
+	text-decoration: underline;
+}
+
+div{
+	border: 100px;
+	background-color: #7306AA;
+	text-align:center;
+}
+
+ol{
+	list-style: upper-alpha;
+	color: black;
+	font-weight: bold;
+	font-style: italic;
+}
+
+ul{
+	list-style-type: circle;
+	list-style-image: url(C:\Users\dqm15allhusen\Desktop\Schmetterling.png);
+}
+
